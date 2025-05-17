@@ -1,0 +1,6 @@
+streamlit
+pandas
+duckdb
+python-dotenv
+groq
+openpyxl
