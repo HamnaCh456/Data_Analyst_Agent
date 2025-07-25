@@ -3,6 +3,8 @@
 This Streamlit app enables users to upload CSV or Excel files and perform **automated SQL-based data analysis** using [Groq's LLM API](https://groq.com). The app uses **DuckDB** to execute SQL queries generated from natural language inputs, making data exploration and analytics seamless for non-technical users.
 
 ---
+###🎥 Demo
+[watch the demo](https://youtu.be/-23Tb1Gmv1A)
 
 ### 🔧 Features
 
